@@ -1,0 +1,51 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    border-top: 100px solid #5c8ff1;
+}
+
+.item-lustre{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+
+}
+
+#titulo{
+    font-size: 48px;
+    margin-left: 20px;
+    position: relative;
+    top: -80px;
+    color: ghostwhite;
+}
+
+#barra-principal{
+    position: relative;
+    top: -110px; 
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    color: ghostwhite;
+}
+
+#pesquisasss{
+    position: relative;
+    top: -135px;
+    display: flex;
+    margin-left: 1700px;
+}
+
+#usuario{
+    position: relative;
+    top: -154px;
+    margin-left: 1880px;
+    color: ghostwhite;
+}
+
+.item-lustre3{
+    text-decoration: none;
+    cursor: pointer;
+    color: ghostwhite;
+}
